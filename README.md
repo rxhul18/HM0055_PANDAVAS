@@ -14,8 +14,11 @@ Our ultimate goal is to empower you to make informed decisions about your future
 
 ### Your Path Forward
 **Explore:** Begin your journey by exploring the various career options presented to you.
+
 **Reflect:** Engage with the insightful questions tailored to uncover your passions and strengths.
+
 **Discover:** Uncover potential career paths that resonate with your unique qualities.
+
 **Connect:** Access resources, mentorship opportunities, and educational insights to guide your decision-making process.
 
 
@@ -24,10 +27,16 @@ Our ultimate goal is to empower you to make informed decisions about your future
 Inside the Margdarsan, we've designed an immersive experience for you. Expect to find:
 
 **Interactive Quizzes:** Engage in thought-provoking questions that bring clarity to your aspirations.
+
 **Personalized Recommendations:** Receive tailored career suggestions based on your strengths and interests.
+
 **Real-Life Stories:** Read inspiring journeys of individuals who found their calling, just like you can.
+
 **Expert Advice:** Access guidance from industry experts and mentors who are eager to support your journey.
 
 ## Begin Your Journey Now
 The Career Compass is not just a tool; it's your partner in discovering the path that resonates with you. Take the first step towards a fulfilling future by diving into the Margdarsan – where your aspirations meet guidance. Your journey awaits!
+## To run this project in local
+**Requirments:** Node.js is required.
 
+**To Run:** use **npm pandavas** 
