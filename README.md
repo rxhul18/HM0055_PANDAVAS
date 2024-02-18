@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Career Compass Landing Page
+** Welcome to Your Future **
+** Who We Are Writing For **
+A recent 10th or 12th class graduate in India, standing at the crossroads of your academic journey? Our target audience is young individuals aged 15-19, eager to 
+embark on a path that aligns with their passions and aspirations.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Where You Are Now
+You find yourself in the exciting yet overwhelming phase of choosing your future career. The options seem endless, and the pressure to make the right choice is palpable. It's okay to feel a bit lost – we understand the importance of finding your path.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Your Journey Inside the Funnel
+As you navigate through the Career Compass, envision it as a guiding funnel. At the top, you enter with curiosity and questions. Through the engaging content and interactive features, you progress down the funnel, gaining clarity and insights about your ideal career path.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Action We Want You to Take
+Our ultimate goal is to empower you to make informed decisions about your future. By the end of your journey on the Career Compass, we want you to take the next step confidently. Whether it's exploring educational options, seeking mentorship, or making career-related decisions, we aim to equip you with the tools and knowledge needed to move forward.
 
-### `npm test`
+### Your Path Forward
+**Explore:** Begin your journey by exploring the various career options presented to you.
+**Reflect:** Engage with the insightful questions tailored to uncover your passions and strengths.
+**Discover:** Uncover potential career paths that resonate with your unique qualities.
+**Connect:** Access resources, mentorship opportunities, and educational insights to guide your decision-making process.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### Your Experience Inside Our Platform
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Inside the Margdarsan, we've designed an immersive experience for you. Expect to find:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Interactive Quizzes:** Engage in thought-provoking questions that bring clarity to your aspirations.
+**Personalized Recommendations:** Receive tailored career suggestions based on your strengths and interests.
+**Real-Life Stories:** Read inspiring journeys of individuals who found their calling, just like you can.
+**Expert Advice:** Access guidance from industry experts and mentors who are eager to support your journey.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Begin Your Journey Now
+The Career Compass is not just a tool; it's your partner in discovering the path that resonates with you. Take the first step towards a fulfilling future by diving into the Margdarsan – where your aspirations meet guidance. Your journey awaits!
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
