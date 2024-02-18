@@ -1,0 +1,22 @@
+body{
+  font-family: 'Sofia Sans', sans-serif;
+}
+
+.pr-0{
+  padding-right: 0 !important;
+}
+
+.m0-a{
+  margin: 0 auto;
+}
+.fd-c{
+  flex-direction: column;
+}
+.comman-parent{
+  position: relative;
+}
+
+.comman-child{
+    position: absolute;
+    z-index: 999;
+}

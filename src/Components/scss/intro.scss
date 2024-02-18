@@ -1,0 +1,61 @@
+.intro-bg{
+    background-color: #071e35;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    padding-bottom: 5rem !important;
+    .intro-main{
+        display: flex;
+        // width: 100vw;
+        .message{
+            h1{
+                font-size: 5.5rem;
+                text-align: start;
+                width: 90%;
+                color: white;
+                // font-family: var(--boldFont);
+                font-weight: 800;
+                margin-top: 6rem;
+                line-height: 1.2;
+                letter-spacing: -1px;
+                span{
+                    color: #ffa405;
+                }
+                .dotcom{
+                    color: #ffa405;
+                    font-size: small;
+                }
+            }
+            p{
+                color: #d0d0d0;
+                font-size: 1.1rem;
+                font-family: "IBM Plex Sans Condensed", sans-serif;
+                font-weight: 400;
+            }
+            p{
+                overflow: hidden; /* Ensures the content is not revealed until the animation */
+                border-right: .10em solid orange; /* The typwriter cursor */
+                white-space: nowrap; /* Keeps the content on a single line */
+                margin: 0 auto;
+                animation: 
+                  typing 3.5s steps(40, end),
+                  blink-caret .75s step-end infinite;
+              }
+              @keyframes typing {
+                from { width: 0 }
+                to { width: 100% }
+              }
+              
+              /* The typewriter cursor effect */
+              @keyframes blink-caret {
+                from, to { border-color: transparent }
+                50% { border-color: orange; }
+              }
+            h2{
+                color: #ffffff;
+                font-size: 23px;
+                font-family: "IBM Plex Sans Condensed", sans-serif;
+            }
+        }
+    }
+}

@@ -1,24 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+import '../src/Components/scss/common.scss'
+import {Routes , Route, BrowserRouter} from "react-router-dom";
+import Home from './Pages/Home'
+import Tenth from './Pages/Tenth';
+import Twelth from './Pages/Twelth';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+            <Routes>
+              <Route exact index path='/' element={<Home />} />
+              <Route index path='/tenth' element={<Tenth />} />
+              <Route index path='/twelth' element={<Twelth />} />
+            </Routes>
+        </div>
   );
 }
 
