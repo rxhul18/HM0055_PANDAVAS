@@ -47,6 +47,13 @@ Inside the Margdarsan, we've designed an immersive experience for you. Expect to
 Margdarsan is a user-friendly platform designed to revolutionize mentorship in education.
 
 We welcome feedback and contributions from the community to enhance and expand our platform.
+**Explore:** Begin your journey by exploring the various career options presented to you.
+
+**Reflect:** Engage with the insightful questions tailored to uncover your passions and strengths.
+
+**Discover:** Uncover potential career paths that resonate with your unique qualities.
+
+**Connect:** Access resources, mentorship opportunities, and educational insights to guide your decision-making process.
 
 **Begin Your Journey Now**
 The Margdarsan is not just a tool; it's your partner in discovering the path that resonates with you. Take the first step towards a fulfilling future by diving into the Margdarsan – where your aspirations meet guidance. Your journey awaits!
