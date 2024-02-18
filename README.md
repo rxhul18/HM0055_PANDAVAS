@@ -3,16 +3,31 @@ Welcome to Your Future
 A recent 10th or 12th class graduate in India, standing at the crossroads of your academic journey? Our target audience is young individuals aged 15-19, eager to 
 embark on a path that aligns with their passions and aspirations.
 
-## Where You Are Now
-You find yourself in the exciting yet overwhelming phase of choosing your future career. The options seem endless, and the pressure to make the right choice is palpable. It's okay to feel a bit lost – we understand the importance of finding your path.
+## Description
+Our project,Margdarsan addresses the challenge of personalized mentorship in education, focusing on helping students find mentors aligned with their goals and interests. The platform, named "Margdarsan," streamlines the mentor matching process, ensuring tailored and effective mentorship experiences for students to foster educational and career growth
 
-### Your Journey Inside the Funnel
+### Features
 As you navigate through the Margdarsan, envision it as a guiding funnel. At the top, you enter with curiosity and questions. Through the engaging content and interactive features, you progress down the funnel, gaining clarity and insights about your ideal career path.
+**College Sorting:** Discover colleges in different cities based on your chosen career path.
 
-### Action We Want You to Take
-Our ultimate goal is to empower you to make informed decisions about your future. By the end of your journey on the Margdarsan, we want you to take the next step confidently. Whether it's exploring educational options, seeking mentorship, or making career-related decisions, we aim to equip you with the tools and knowledge needed to move forward.
+**Career Assessment:** Answer 7 questions designed to recommend the most suitable career path or branch.
 
-### Your Path Forward
+**Interactive Quizzes:** Engage in thought-provoking questions that bring clarity to your aspirations.
+
+**Personalized Recommendations:** Receive tailored career suggestions based on your strengths and interests.
+
+### Teachstack
+HTML
+
+SCSS
+
+JavaScript
+
+React.js
+
+Node.js
+
+### Screenshots
 **Explore:** Begin your journey by exploring the various career options presented to you.
 
 **Reflect:** Engage with the insightful questions tailored to uncover your passions and strengths.
@@ -22,19 +37,18 @@ Our ultimate goal is to empower you to make informed decisions about your future
 **Connect:** Access resources, mentorship opportunities, and educational insights to guide your decision-making process.
 
 
-### Your Experience Inside Our Platform
+### DEPLOYED URL
 
 Inside the Margdarsan, we've designed an immersive experience for you. Expect to find:
 
-**Interactive Quizzes:** Engage in thought-provoking questions that bring clarity to your aspirations.
+### Video urls
 
-**Personalized Recommendations:** Receive tailored career suggestions based on your strengths and interests.
+## Remarks
+Margdarsan is a user-friendly platform designed to revolutionize mentorship in education.
 
-**Real-Life Stories:** Read inspiring journeys of individuals who found their calling, just like you can.
+We welcome feedback and contributions from the community to enhance and expand our platform.
 
-**Expert Advice:** Access guidance from industry experts and mentors who are eager to support your journey.
-
-## Begin Your Journey Now
+**Begin Your Journey Now**
 The Margdarsan is not just a tool; it's your partner in discovering the path that resonates with you. Take the first step towards a fulfilling future by diving into the Margdarsan – where your aspirations meet guidance. Your journey awaits!
 ## To run this project in local
 **Requirments:** Node.js is required.
