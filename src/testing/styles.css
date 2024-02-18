@@ -1,0 +1,117 @@
+/* body {
+    font-family: 'Roboto', Arial, sans-serif;
+    background: url('background.jpg') fixed;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+  } */
+  
+  .quiz-container {
+    max-width: 600px;
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 32px;
+    text-align: center;
+  }
+  
+  .question {
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #555;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  
+  input[type="radio"] {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 12px 24px;
+    background-color: #ff5722;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+    display: block;
+    margin: 20px auto;
+  }
+  
+  button:hover {
+    background-color: #f4511e;
+  }
+  
+  .bar-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+  }
+  
+  .bar {
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    color: grey;
+    background-color: orange;
+    margin-right: 10px;
+    position: relative;
+  }
+  
+  .bar div {
+    height: 100%;
+    border-radius: 15px;
+    animation: barAnimation 1s ease;
+  }
+  
+  @keyframes barAnimation {
+    from {
+      width: 0;
+    }
+  }
+  
+  .result-info {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Background Color */
+  .quiz-container {
+    background-color: rgba(203, 201, 201, 0.9);
+  }
+  
+  /* Graph Colors */
+  .bar:nth-child(1) div {
+    background: linear-gradient(to right, #ff5722, #ff9800); /* Red to Orange */
+  }
+  
+  .bar:nth-child(2) div {
+    background: linear-gradient(to right, #2196F3, #03A9F4); /* Blue to Light Blue */
+  }
+  
+  .bar:nth-child(3) div {
+    background: linear-gradient(to right, #4CAF50, #8BC34A); /* Green to Light Green */
+  }
+  

@@ -20,7 +20,7 @@ function Tenth() {
                     <Link to={''} className='start-button'>Explore Chosed Field</Link>
 
                     <p><span>*</span>Still uncretain about carrier?</p>
-                    <Link to={''} className='start-button'>Quick Question</Link>
+                    <Link to='/quickquestion' className='start-button'>Quick Question</Link>
                 </div>
             </div>
 

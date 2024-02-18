@@ -1,0 +1,119 @@
+
+
+// .App {
+//     font-family: Arial, sans-serif;
+//     text-align: center;
+//     margin-top: 50px;
+//   }
+  
+//   .options {
+//     display: flex;
+//     justify-content: center;
+//     margin-bottom: 20px;
+//   }
+  
+//   label {
+//     margin: 0 10px;
+//   }
+  
+//   button {
+//     margin-top: 20px;
+//     padding: 10px 20px;
+//     font-size: 16px;
+//     background-color: #007bff;
+//     color: white;
+//     border: none;
+//     border-radius: 5px;
+//     cursor: pointer;
+//   }
+  
+//   button:hover {
+//     background-color: #0056b3;
+//   }
+.main-quickquestion {
+    font-family: Arial, sans-serif;
+    text-align: start;
+    background-color: #071e35e6;
+    color: white !important;
+    .part-1{
+        background-color: #071e35 !important;
+        h2{
+            font-size: 3.3rem;
+            text-align: start;
+            width: 90%;
+            color: white;
+            font-family: var(--boldFont);
+            font-weight: 700;
+            letter-spacing: 1px;
+            span{
+                color: #ffa405;
+            }
+        }
+    }
+    .part-2{
+        h2{
+            font-size: 3rem;
+            font-weight: 600;
+            margin-bottom: 3rem;
+            font-family:"Libre Bodoni", serif;;
+        }
+        h3{
+            font-size: 1.8rem;
+            font-family: var(--commonFont);
+        }
+        .options {
+            display: flex;
+            justify-content: start;
+            margin-bottom: 40px;
+        }
+        
+        label {
+          font-family: var(--commonFont);
+          margin: 0 10px;
+          font-weight: 600;
+          font-size: 1rem;
+          padding: 0.9rem 1.5rem;
+          border: 2.5px solid #fff;
+          color: #f7f7f8;
+          position: relative;
+          background-color: #071e35;
+          border-radius: 8px;
+        }
+        label:hover{
+            margin-top: -9px;
+            padding-bottom: 1rem 10px 0 1rem;
+            transition: all ease-in-out 0.2s;
+        }
+        input{
+              background-color: 1px solid rgba(0, 0, 128, 0.271) ;
+            margin-right:8px
+        }
+      
+        button {
+          margin-top: 20px;
+          padding: 15px 28px;
+          font-size: 20px;
+          font-family: var(--boldFont);
+          background-color: #54a8c7;
+          color: white;
+          border: none;
+          border-radius: 5px;
+          cursor: pointer;
+      
+          &:hover {
+            background-color: #ffa405;
+            transition: all ease-in-out .2s;
+          }
+        }
+
+        p{
+            font-size: 3rem;
+            font-family: var(--boldFont);
+            font-weight: 700;
+            color: #ffffff;
+            margin: 0;
+            padding-bottom: 3rem;
+        }
+    }
+  }
+  
