@@ -7,6 +7,9 @@ embark on a path that aligns with their passions and aspirations.
 ## Description
 Our project,Margdarsan addresses the challenge of personalized mentorship in education, focusing on helping students find mentors aligned with their goals and interests. The platform, named "Margdarsan," streamlines the mentor matching process, ensuring tailored and effective mentorship experiences for students to foster educational and career growth
 
+## Vercel Repo Link
+https://pandavas.vercel.app/
+
 ### Features
 As you navigate through the Margdarsan, envision it as a guiding funnel. At the top, you enter with curiosity and questions. Through the engaging content and interactive features, you progress down the funnel, gaining clarity and insights about your ideal career path.
 **College Sorting:** Discover colleges in different cities based on your chosen career path.
