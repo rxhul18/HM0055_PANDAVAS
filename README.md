@@ -24,7 +24,7 @@ SCSS
 
 JavaScript
 
-React.js
+Reactjs
 
 Node.js
 
