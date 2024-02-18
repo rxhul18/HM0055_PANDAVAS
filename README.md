@@ -1,6 +1,5 @@
-# Career Compass Landing Page
-** Welcome to Your Future **
-** Who We Are Writing For **
+# Margdarsan Landing Page
+Welcome to Your Future 
 A recent 10th or 12th class graduate in India, standing at the crossroads of your academic journey? Our target audience is young individuals aged 15-19, eager to 
 embark on a path that aligns with their passions and aspirations.
 
@@ -10,7 +9,6 @@ You find yourself in the exciting yet overwhelming phase of choosing your future
 ### Your Journey Inside the Funnel
 As you navigate through the Career Compass, envision it as a guiding funnel. At the top, you enter with curiosity and questions. Through the engaging content and interactive features, you progress down the funnel, gaining clarity and insights about your ideal career path.
 
-The page will reload when you make changes.\
 ### Action We Want You to Take
 Our ultimate goal is to empower you to make informed decisions about your future. By the end of your journey on the Career Compass, we want you to take the next step confidently. Whether it's exploring educational options, seeking mentorship, or making career-related decisions, we aim to equip you with the tools and knowledge needed to move forward.
 
