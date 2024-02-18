@@ -39,18 +39,6 @@ const StreamSelection = () => {
                 <Link to='/twelth' className='start-button'>Start</Link>
             </div>
         </div>
-            {/* <div className="heading">
-                <span className="highlight">10th - 12th</span>
-                <br />
-                Looking for the right
-                <br />
-                course to pursue
-                <br />
-                your dreams?
-            </div>
-            <div className="button-container">
-                <button className="start-button">Start</button>
-            </div> */}
         </div>
     </div>
   );
