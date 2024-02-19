@@ -71,4 +71,4 @@ The Margdarsan is not just a tool; it's your partner in discovering the path tha
 ## To run this project in local
 **Requirments:** Node.js is required.
 
-**To Run:** use **npm pandavas** 
+**To Run:** use **npm start** 
