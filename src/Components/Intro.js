@@ -4,7 +4,7 @@ import introImg from '../Assets/intro-img.webp'
 
 function Intro() {
     return (
-        <div className='intro-bg pt-5 pb-5'>
+        <div className='intro-bg pt-1 pb-5'>
             <div className='coontainer'>
                 <div className='intro-main row'>
                     <div className='message col-8'>

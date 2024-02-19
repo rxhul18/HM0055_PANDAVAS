@@ -31,6 +31,8 @@
                 font-size: 1.1rem;
                 font-family: "IBM Plex Sans Condensed", sans-serif;
                 font-weight: 400;
+                width: 50%;
+                margin-left: 0 !important;
             }
             p{
                 overflow: hidden; /* Ensures the content is not revealed until the animation */

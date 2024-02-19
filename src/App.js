@@ -10,13 +10,15 @@ import QuickQuestion from './Pages/QuickQuestion';
 function App() {
   return (
     <div className="App">
-            <Routes>
-              <Route exact index path='/' element={<Home />} />
-              <Route index path='/tenth' element={<Tenth />} />
-              <Route index path='/twelth' element={<Twelth />} />
-              <Route index path='/quickquestion' element={<QuickQuestion />} />
-            </Routes>
-        </div>
+      {/* <BrowserRouter> */}
+        <Routes>
+          <Route exact index path='/' element={<Home />} />
+          <Route index path='/tenth' element={<Tenth />} />
+          <Route index path='/twelth' element={<Twelth />} />
+          <Route index path='/quickquestion' element={<QuickQuestion />} />
+        </Routes>
+      {/* </BrowserRouter> */}
+    </div>
   );
 }
 

@@ -1,12 +1,14 @@
 :root{
     --commonFont:"IBM Plex Sans Condensed", sans-serif;
+    --italicFont:"Libre Bodoni", serif;
+    --boldFont:"Questrial", sans-serif;
 }
 
 .coontainer{
     width: 80% !important;
     margin: 0 auto;
     @media (max-width:768px) {
-        width: 94% !important;
+        width: 92% !important;
         margin: 0 auto;
     }
 }
